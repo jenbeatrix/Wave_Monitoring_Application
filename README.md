@@ -40,3 +40,5 @@ Fig. 7: Collected Pressure Sensor Data
 Fig. 8: Collected Inetrial Measurement Unit (IMU) readings
 
 ![image](https://user-images.githubusercontent.com/82814920/171124292-8cf177eb-3645-40df-afb8-fb4f88d271a2.png)
+
+© 2021, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
